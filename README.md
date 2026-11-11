@@ -79,7 +79,7 @@
 ## 🎯 Sobre este Portaforlio
 
 > [!NOTE]
-> 
+> "Un día a la vez, sin rendirse ni dejar de agradecer"
 
 | 📌 Sección | 📝 Contenido | 🔗 Acceso |
 |:--|:--|:--:|
