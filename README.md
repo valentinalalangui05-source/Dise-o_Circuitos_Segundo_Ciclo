@@ -76,6 +76,25 @@
 
 ---
 
+## 🎯 Sobre este Portaforlio
+
+> [!NOTE]
+> 
+
+| 📌 Sección | 📝 Contenido | 🔗 Acceso |
+|:--|:--|:--:|
+| 📄 Portada | Datos generales e índice de actividade | [Ver](./PORTADA.md) |
+| 📦 Unidad 1 | Análisis de la lógica combinacional con diseño clásico | [Ver](./PORTADA.md#unidad-1) |
+| 📦 Unidad 2 | Análisis de la lógica secuencial con diseño clásico | [Ver](./PORTADA.md#unidad-2) |
+| 📦 Unidad 3 | Implementación de circuitos digitales con técnicas de diseño Moderno | [Ver](./PORTADA.md#unidad-3) |
+
+---
+
+<!-- ===================== PIE ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B07219,50:E76F00,100:5382A1&height=110&section=footer" width="100%" alt="Pie de página">
+</p>
+
 
 
 
