@@ -83,7 +83,6 @@
 
 | 📌 Sección | 📝 Contenido | 🔗 Acceso |
 |:--|:--|:--:|
-| 📄 Portada | Datos generales e índice de actividade | [Ver](https://github.com/valentinalalangui05-source/Dise-o_Circuitos_Segundo_Ciclo/blob/main/README.md) |
 | 📦 Unidad 1 | Análisis de la lógica combinacional con diseño clásico | [Ver](UNIDAD1.md) |
 | 📦 Unidad 2 | Análisis de la lógica secuencial con diseño clásico | [Ver]() |
 | 📦 Unidad 3 | Implementación de circuitos digitales con técnicas de diseño Moderno | [Ver]() |
