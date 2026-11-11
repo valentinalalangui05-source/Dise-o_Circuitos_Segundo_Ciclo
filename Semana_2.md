@@ -267,7 +267,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="left"><a href="semana-1.md">⬅️ Semana 1</a></td>
-    <td align="right"><a href="semana-3.md">Semana 3 ➡️</a></td>
+    <td align="left"><a href="Semana_1.md">⬅️ Semana 1</a></td>
+    <td align="right"><a href="Semana_3.md">Semana 3 ➡️</a></td>
   </tr>
 </table>
