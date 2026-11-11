@@ -191,7 +191,7 @@
 <h2>🧩 6. El chip real: 74LS08</h2>
 
 <p align="center">
-  <img src="https://github.com/valentinalalangui05-source/Dise-o_Circuitos_Segundo_Ciclo/blob/main/img/74LS08.png?raw=true" width="60%" alt="Pinout 74LS08">
+  <img src="https://github.com/valentinalalangui05-source/Dise-o_Circuitos_Segundo_Ciclo/blob/main/img/74LS08.png?raw=true" width="40%" alt="Pinout 74LS08">
 </p>
 
 <ul>
