@@ -233,7 +233,7 @@
 </blockquote>
 
 <p align="center">
-  <img src="URL_DE_TU_IMAGEN_DEL_SUMADOR" width="70%" alt="Sumador de 4 bits en cascada">
+  <img src="https://github.com/valentinalalangui05-source/Dise-o_Circuitos_Segundo_Ciclo/blob/main/img/Sumadores%20en%20cadena.png?raw=true" width="70%" alt="Sumador de 4 bits en cascada">
 </p>
 
 <h3>4.2. ¿Por qué se llama <i>Ripple Carry</i> (Acarreo en Ola) y cuánto tarda?</h3>
