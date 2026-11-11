@@ -232,3 +232,10 @@
 </details>
 
 <hr>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="left"><a href="Semana_2.md">➡️ Semana 2</a></td>
+    <td align="right"><a href="README.md">🏠 Inicio</a></td>
+  </tr>
+</table>
