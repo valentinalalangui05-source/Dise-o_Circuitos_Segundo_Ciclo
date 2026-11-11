@@ -84,3 +84,9 @@ El literal solo (A) entra **complementado** (NAND usada como inversor). Sigue si
 
 **Piensa-pareja-comparte:** `F = A'C' + BC` → `F = NAND( NAND(A',C'), NAND(B,C) )` = 3 NAND2 + 2 inversores (A', C') = 5 NAND2 → **2 chips 7400** (1 si ya hay A' y C').
 
+<table align="center" width="100%">
+  <tr>
+    <td align="left"><a href="Semana_2.md">⬅️ Semana 1</a></td>
+    <td align="right"><a href="Semana_4.md">Semana 3 ➡️</a></td>
+  </tr>
+</table>
