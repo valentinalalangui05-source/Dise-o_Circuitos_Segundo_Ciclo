@@ -298,7 +298,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="left"><a href="semana-3.md">⬅️ Semana 3</a></td>
+    <td align="left"><a href="Semana_3.md">⬅️ Semana 3</a></td>
     <td align="right"><a href="README.md">🏠 Inicio</a></td>
   </tr>
 </table>
