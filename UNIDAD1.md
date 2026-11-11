@@ -7,10 +7,10 @@
 
 | Semana | Tema | Estado |
 | :---: | :---| :---: |
-| **S1** | Sistemas numéricos, códigos y compuertas lógicas | [✅Completada]() |
-| **S2** | Álgebra de Boole y formas canónicas | [✅Completada]() |
-| **S3** | Indiferentes y NAND/NOR, Mapas de Karnaugh | [✅Completada]() |
-| **S4** | Circuitos aritméticos: semisumador, sumador completo, sumador de 4 bits, resta, overflow y comparador | [✅Completada]() |
+| **S1** | Sistemas numéricos, códigos y compuertas lógicas | [✅Completada](Semana_1.md) |
+| **S2** | Álgebra de Boole y formas canónicas | [✅Completada](Semana_2.md) |
+| **S3** | Indiferentes y NAND/NOR, Mapas de Karnaugh | [✅Completada](Semana_3.md) |
+| **S4** | Circuitos aritméticos: semisumador, sumador completo, sumador de 4 bits, resta, overflow y comparador | [✅Completada](Semana_4.md) |
 
 
 
