@@ -23,7 +23,7 @@
 <h2>⚡ 1. Niveles lógicos (familia 74LS)</h2>
 
 <p align="center">
-  <img src="URL_DE_TU_IMAGEN_AQUI" width="70%" alt="Niveles lógicos 74LS">
+  <img src="https://github.com/valentinalalangui05-source/Dise-o_Circuitos_Segundo_Ciclo/blob/main/img/Rango.png?raw=true" width="60%" alt="Niveles lógicos 74LS">
 </p>
 
 <blockquote>
