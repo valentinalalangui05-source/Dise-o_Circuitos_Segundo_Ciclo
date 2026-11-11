@@ -279,22 +279,6 @@
 
 <hr>
 
-<h2>🛠️ 7. Resolución del Taller Dirigido en Parejas</h2>
-
-<ol>
-  <li><b>Sumar <code>1011</code> + <code>0110</code>:</b><br>
-      A = 11 (decimal), B = 6 (decimal). Acarreos: C₃ = 1, C₂ = 1, C₁ = 1, C₀ = 0.<br>
-      Salida: S = <b><code>0001</code></b> con Cout = <b><code>1</code></b> (resultado 10001₂ = 17 en decimal ✓).</li>
-  <li><b>Restar <code>0110</code> - <code>0011</code> con M=1:</b><br>
-      B = 0011 → B' = 1100, con Cin = 1.<br>
-      Suma columna por columna: S = <b><code>0011</code></b> (+3 en decimal ✓), Cout = 1 (se descarta) y V = 1 ⊕ 1 = 0.</li>
-  <li><b>Retardo de un sumador de 16 bits:</b><br>
-      2 × 16 = 32 compuertas × 10 ns = <b>320 ns</b>.</li>
-  <li><b>Comparar A = 10₂ y B = 01₂:</b><br>
-      Bit alto: A₁ = 1, B₁ = 0. Como A₁ > B₁, <b>A > B = 1</b> y <b>A = B = 0</b>.</li>
-</ol>
-
-<hr>
 
 <table align="center" width="100%">
   <tr>
